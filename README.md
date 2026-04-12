@@ -64,7 +64,7 @@ Para rodar os **Testes Automatizados** e validar a lógica de negócio da aplica
 
 ## 👤 Autoria e Licença
 
-Desenvolvido por **[Alexandre Mendes Almeida]** - [(https://www.linkedin.com/in/alexandremva/)]
+Desenvolvido por **[Alexandre Mendes Almeida]** - [https://www.linkedin.com/in/alexandremva/]
 
 Este projeto foi construído como requisito para a avaliação prática do ciclo de desenvolvimento de software (Bootcamp), focando em estruturação, testes, integração contínua (CI/CD) e impacto social.
 
