@@ -26,7 +26,7 @@ Utilizando histórias interativas e um ambiente livre de jargões técnicos comp
 ## 📸 Demonstração do Projeto
 *(Adicione aqui um print da tela do seu jogo. Para fazer isso, tire um print, coloque a imagem na pasta do projeto, suba pro GitHub e mude o link abaixo)*
 
-![Demonstração do Jogo](https://via.placeholder.com/800x400.png?text=Coloque+um+print+do+seu+jogo+aqui)
+![Demonstração do Jogo](https://github.com/alemendesva/CidadadaniaDigital/blob/main/capa.JPG)
 
 ---
 
