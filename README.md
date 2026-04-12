@@ -24,7 +24,7 @@ Utilizando histórias interativas e um ambiente livre de jargões técnicos comp
 ---
 
 ## 📸 Demonstração do Projeto
-*(Adicione aqui um print da tela do seu jogo. Para fazer isso, tire um print, coloque a imagem na pasta do projeto, suba pro GitHub e mude o link abaixo)*
+
 
 ![Demonstração do Jogo](https://github.com/alemendesva/CidadadaniaDigital/blob/main/capa.JPG)
 
@@ -46,3 +46,26 @@ A aplicação é construída para rodar diretamente no cliente, sem necessidade 
 1. Clone este repositório:
    ```bash
    git clone [https://github.com/alemendesva/CidadadaniaDigital.git](https://github.com/alemendesva/CidadadaniaDigital.git)
+
+### 2. Executando as ferramentas de Qualidade (Lint e Testes)
+
+Para provar a qualidade do código e rodar os testes automatizados, você precisará do [Node.js](https://nodejs.org/) instalado no seu computador.
+
+No terminal da raiz do projeto, instale as dependências:
+`npm install`
+
+Para rodar a **Análise Estática (Linting)** e verificar se o código segue as boas práticas e padrões estabelecidos (ESLint):
+`npm run lint`
+
+Para rodar os **Testes Automatizados** e validar a lógica de negócio da aplicação (Jest):
+`npm test`
+
+---
+
+## 👤 Autoria e Licença
+
+Desenvolvido por **[Seu Nome Aqui]** - [Link para seu LinkedIn ou GitHub]
+
+Este projeto foi construído como requisito para a avaliação prática do ciclo de desenvolvimento de software (Bootcamp), focando em estruturação, testes, integração contínua (CI/CD) e impacto social.
+
+Licença: **MIT**
