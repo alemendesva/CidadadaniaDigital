@@ -1,5 +1,7 @@
 # Cidadania Digital: Prevenção de Golpes 🛡️
 
+**Acesse o jogo online aqui:** https://alemendesva.github.io/CidadadaniaDigital/
+
 **Versão:** 1.0.0
 
 ## 🎯 Qual problema estamos tentando resolver?
