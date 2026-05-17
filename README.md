@@ -62,13 +62,7 @@ Para rodar os **Testes Automatizados** e validar a lógica de negócio da aplica
 
 ---
 
-## 👤 Autoria e Licença
-
-Desenvolvido por **[Alexandre Mendes Almeida]** - [https://www.linkedin.com/in/alexandremva/]
-
-Este projeto foi construído como requisito para a avaliação prática do ciclo de desenvolvimento de software (Bootcamp), focando em estruturação, testes, integração contínua (CI/CD) e impacto social.
-
-Licença: **MIT**
+## 🌐 Entrega Intermediária
 
 🌐 Integração com API Externa
 Para atender aos requisitos desta Etapa Intermediária, a aplicação foi conectada ao mundo exterior através do consumo da Slip Advice API, uma API pública, aberta e gratuita.
@@ -87,3 +81,11 @@ Gerador de Senhas Fortes: Uma ferramenta utilitária integrada que criará senha
 Feed de Notícias sobre Phishing e Golpes: Consumo de uma API de notícias focada em tecnologia para exibir em tempo real os alertas de fraudes, golpes digitais e técnicas de engenharia social mais recentes que estão acontecendo no mercado.
 
 Com essa evolução, a aplicação deixará de ser apenas um jogo de perguntas e respostas e se tornará um portal de utilidade pública, unindo treinamento preventivo, ferramentas práticas de proteção e atualizações do mundo real em um único lugar.
+
+## 👤 Autoria e Licença
+
+Desenvolvido por **[Alexandre Mendes Almeida]** - [https://www.linkedin.com/in/alexandremva/]
+
+Este projeto foi construído como requisito para a avaliação prática do ciclo de desenvolvimento de software (Bootcamp), focando em estruturação, testes, integração contínua (CI/CD) e impacto social.
+
+Licença: **MIT**
